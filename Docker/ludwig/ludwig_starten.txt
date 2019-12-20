@@ -1,0 +1,1 @@
+ludwig experiment -mdf /data/model_definition.yaml -g 0 --data_csv /data/humans_data.csv
